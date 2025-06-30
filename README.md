@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 </a>
 [![My Skills](https://skillicons.dev/icons?i=mysql,bash&perline=10)](https://skillicons.dev)
 
-Passionate about 
-    Linux, 
-    declarative programming, 
-    functional programming, 
-    backend development, 
-    writing maintainable code 
-    and designing modular architectures with reusable components.
+ 
+  GNU/Linux, 
+  declarative programming, 
+  functional programming, 
+  backend development, 
+  writing maintainable code 
+  and designing modular architectures with reusable components.
