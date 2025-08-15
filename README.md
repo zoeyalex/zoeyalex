@@ -34,13 +34,13 @@ Roles
 likes
 -
 
- - GNU/Linux,
+ - GNU/Linux
  - FLOSS/FOSS/KISS
- - declarative/functional programming, 
- - backend development,
- - design patterns,
+ - declarative/functional programming 
+ - backend development
+ - design patterns
  - writing maintainable code 
- - designing modular architectures with reusable components.
+ - designing modular architectures with reusable components
 
 
 
